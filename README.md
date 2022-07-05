@@ -1,4 +1,4 @@
-# 前端开发思考
+### 前端开发思考
 
 - 🔥🔥🔥 [前端研发的新基础设施 - Rust 🦀️](https://github.com/linhuiw/blog/issues/2)
 
@@ -10,3 +10,13 @@
 - [精读《JS 中的内存管理》](https://zhuanlan.zhihu.com/p/30552148)
 - [精读《现代 JavaScript 概览》](https://zhuanlan.zhihu.com/p/29408188)
 - [精读《Web Components 的困境》](https://zhuanlan.zhihu.com/p/27241920)
+
+### 数据可视化
+
+- [Data Storytelling 调研](https://github.com/linhuiw/blog/issues/3)
+- [Charticulator 调研](https://github.com/linhuiw/blog/issues/5)
+- [P5 & P4 -交互式数据分析和可视化-论文解读](https://github.com/linhuiw/blog/issues/4)
+
+### 读书笔记
+- [【读书笔记】- 用数据讲故事](https://github.com/linhuiw/blog/issues/7)
+- [【读书笔记】- 视觉繁美](https://github.com/linhuiw/blog/issues/6)
