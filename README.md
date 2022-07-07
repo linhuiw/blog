@@ -1,6 +1,6 @@
 ### 前端开发思考
 
-- 🔥🔥🔥 [前端研发的新基础设施 - Rust 🦀️](https://github.com/linhuiw/blog/issues/2)
+- 🔥🔥🔥 [前端研发的新基础设施 - Rust 🦀️](https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg)
 
 <br/>
 
