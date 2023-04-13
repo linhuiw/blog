@@ -1,9 +1,6 @@
 ### 前端开发思考
 
 - 🔥🔥🔥 [前端研发的新基础设施 - Rust 🦀️](https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg)
-
-<br/>
-
 - [前端开发深水区讨论](https://zhuanlan.zhihu.com/p/81118870)
 - [精读《使用 css 变量生成页面主题》](https://zhuanlan.zhihu.com/p/80762243)
 - [图表库源码剖析 - Chart.js 最流行的 Canvas 图表库](https://zhuanlan.zhihu.com/p/32740553)
@@ -20,3 +17,7 @@
 ### 读书笔记
 - [【读书笔记】- 用数据讲故事](https://github.com/linhuiw/blog/issues/7)
 - [【读书笔记】- 视觉繁美](https://github.com/linhuiw/blog/issues/6)
+
+### English Blog 
+
+- [👨‍🦽Optimizing Productivity: AIGC Tools Recently Used](https://medium.com/@linhuiw/optimizing-productivity-aigc-tools-recently-used-e0380269796a)
